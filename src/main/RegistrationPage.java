@@ -6,7 +6,7 @@ public class RegistrationPage {
 	{
 		System.out.println("This is registration page");
 		int a= 10;
-		
+		String city= "Pune";
 
 	}
 

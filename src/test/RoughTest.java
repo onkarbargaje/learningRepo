@@ -6,6 +6,7 @@ public class RoughTest {
 	{
 
         System.out.println("This is for rough work");
+        String roughtest= "rmkmmd";
 
 	}
 
